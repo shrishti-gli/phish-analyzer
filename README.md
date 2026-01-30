@@ -1,3 +1,40 @@
+# Phish Analyzer 🛡️
+
+Phish Analyzer is a cybersecurity-focused project designed to detect and analyze phishing URLs/websites using data analysis and machine learning techniques. The goal of this project is to help identify malicious links and improve user awareness against phishing attacks.
+
+---
+
+## 🚀 Project Objectives
+- Detect phishing websites and URLs
+- Analyze features commonly used in phishing attacks
+- Improve online safety through automated detection
+- Demonstrate practical application of cybersecurity concepts
+
+---
+
+## 🧰 Technologies Used
+- Python
+- Machine Learning
+- Scikit-learn
+- Pandas & NumPy
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+- `data/` – Dataset used for training and testing
+- `src/` – Source code for preprocessing and model building
+- `models/` – Trained machine learning models
+- `notebooks/` – Analysis and experimentation notebooks
+- `README.md` – Project documentation
+
+---
+
+## ⚙️ How to Run the Project
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/phish-analyzer.git
 #  Phish Analyzer — Heuristic-Based Phishing Email Detection
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
